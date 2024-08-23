@@ -42,6 +42,6 @@ boton3.grid(row=1,column=0,padx=50,pady=30)
 boton4 = tk.Button(ventana, text="B4", width=10,height=5)
 boton4.grid(row=1,column=1,padx=50,pady=30)
 
-
 #Mantener la ventana abierta
 ventana.mainloop() 
+
